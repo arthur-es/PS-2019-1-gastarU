@@ -3,9 +3,9 @@
 ##Trabalho da disciplina Projeto de Software
 ##Aplicativo de Gestão de Finanças Pessoais - GastarÜ 
 
+## Professor
+Rubens de Castro
 ## Alunos
-###Professor: Rubens de Castro
-###Alunos:
 * Arthur Castro da Cunha
 * Fabiano Gomes Pires
 

@@ -9,4 +9,5 @@ Professor: Rubens de Castro
 * Fabiano Gomes Pires
 
 ## Exemplos
-* [`MCUexemplo-01/readme.md) - Mínimo de uma aplicação web.
+* [`MCU`] (2.Análise/2.1.MCU/readme.md) - Modelo de caso de uso.
+-- Diagrama e Descrições dos casos de uso.

@@ -8,6 +8,6 @@ Professor: Rubens de Castro
 * Arthur Castro da Cunha
 * Fabiano Gomes Pires
 
-## Exemplos
+## Artefatos
 * [`MCU`](2.Análise/2.1.MCU/readme.md) - Modelo de caso de uso.
 -- Diagrama e Descrições dos casos de uso.

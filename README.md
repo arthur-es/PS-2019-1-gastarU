@@ -1,9 +1,12 @@
 # PS-2019-1-gastarU
+
 Trabalho da disciplina Projeto de Software
 Aplicativo de Gestão de Finanças Pessoais - gastarÜ 
 
-Prof: Rubens C.
+## Alunos
+Professor: Rubens de Castro
+* Arthur Castro da Cunha
+* Fabiano Gomes Pires
 
-Alunos:
-Arthur Castro
-Fabiano
+## Exemplos
+* [`MCUexemplo-01/readme.md) - Mínimo de uma aplicação web.

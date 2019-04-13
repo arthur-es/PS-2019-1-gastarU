@@ -1,7 +1,7 @@
 # PS-2019-1-gastarU
 
 ## Trabalho da disciplina Projeto de Software [INF UFG 2019.1]
-## Aplicativo de Gestão de Finanças Pessoais - GastarÜ 
+Aplicativo de Gestão de Finanças Pessoais - GastarÜ 
 
 ## Professor
 Rubens de Castro

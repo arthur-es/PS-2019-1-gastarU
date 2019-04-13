@@ -9,5 +9,5 @@ Professor: Rubens de Castro
 * Fabiano Gomes Pires
 
 ## Exemplos
-* [`MCU`] (2.Análise/2.1.MCU/readme.md) - Modelo de caso de uso.
+* [`MCU`](2.Análise/2.1.MCU/readme.md) - Modelo de caso de uso.
 -- Diagrama e Descrições dos casos de uso.

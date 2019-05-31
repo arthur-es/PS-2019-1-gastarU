@@ -12,7 +12,7 @@ Rubens de Castro
 ## Artefatos
 * [`MCU`](2.Análise/2.1.MCU) - Modelo de caso de uso.
 -- Diagrama e Descrições dos casos de uso.
-* [`PROTOTIPO`](2.Análise/2.2.PROT) - Protótipos das telas da aplicação. 
+* [`PROTÓTIPO`](2.Análise/2.2.PROT) - Protótipos das telas da aplicação. 
 -- Principais telas da aplicação.
 * [`MODELO CLASSE ANÁLISE`](2.Análise/2.3.DCAD) - Modelo de classe de análise/domínio.
 * [`DIAGRAMA DE CLASSES DE PROJETO`](3.Projeto/DCP) - Diagrama de Classes de Projeto (DCP)
